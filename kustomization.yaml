@@ -1,0 +1,5 @@
+---
+resources:
+  - step3-nginx-deploy.yaml
+  - step4-nginx-service.yaml
+  - step5-nginx-ingress.yaml
